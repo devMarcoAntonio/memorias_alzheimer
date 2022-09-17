@@ -1,1 +1,1 @@
-# memorias_alzheimer
+# banco para controle de pacientes acometidos por alzheimer
